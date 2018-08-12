@@ -1,5 +1,7 @@
-#Next.js Boilerplate
+# Next.js Boilerplate
 
 installed with 
-- tachyons css
+```
+- tachyons
 - scss
+```
